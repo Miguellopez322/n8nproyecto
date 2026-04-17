@@ -1,0 +1,5 @@
+#### Si quieres leer o extraer datos del archivo
+GET https://graph.microsoft.com/v1.0/drives/b!6WWMf_yWgEW-S5V6oMBkYrd6tHOz-AJMmsIdFwASR8FShKEjahM0S5n5GZMVkhkx/items/01QT4MKBMJGKGQLQIR6ZAL4T3NDIQTSNDQ/workbook/worksheets('{CBF98B8D-B971-477E-AC49-DB3F82ECD719}')
+
+
+
